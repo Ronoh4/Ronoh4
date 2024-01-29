@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML Engineering
 - 🌱 I’m currently learning RAGs
 - 💞️ I’m looking to collaborate on LLM apps
-- 📫 How to reach me ...leighphil4@gmail.com
+- 📫 How to reach me: leighphil4@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: GitHub Copilot is fun!
 
