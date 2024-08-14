@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Phil
+- 👋 Hi, I’m Philemon from Nairobi, Kenya.
 - 👀 I’m interested in AI and ML Engineering
-- 🌱 I’m currently learning RAGs
-- 💞️ I’m looking to collaborate on LLM apps
-- 📫 How to reach me: leighphil4@gmail.com
+- 🌱 I’m currently learning Workflow abstraction
+- 💞️ I’m looking to collaborate on innovative AI solutions
+- 📫 How to reach me: philemonkiprono3@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: GitHub Copilot is fun!
+- ⚡ Fun fact: I love coding!
 
 <!---
 Ronoh4/Ronoh4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
